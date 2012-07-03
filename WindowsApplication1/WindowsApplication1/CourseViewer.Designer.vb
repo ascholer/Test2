@@ -70,7 +70,7 @@ Partial Class CourseViewer
         '
         Me.Button1.Location = New System.Drawing.Point(197, 57)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(141, 46)
+        Me.Button1.Size = New System.Drawing.Size(176, 46)
         Me.Button1.TabIndex = 4
         Me.Button1.Text = "Save Changes"
         Me.Button1.UseVisualStyleBackColor = True
