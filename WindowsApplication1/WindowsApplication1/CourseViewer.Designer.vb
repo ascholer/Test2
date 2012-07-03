@@ -42,7 +42,7 @@ Partial Class CourseViewer
         '
         Me.btnClose.Location = New System.Drawing.Point(197, 27)
         Me.btnClose.Name = "btnClose"
-        Me.btnClose.Size = New System.Drawing.Size(116, 23)
+        Me.btnClose.Size = New System.Drawing.Size(141, 23)
         Me.btnClose.TabIndex = 1
         Me.btnClose.Text = "Close"
         Me.btnClose.UseVisualStyleBackColor = True
