@@ -35,14 +35,14 @@ Partial Class CourseViewer
         Me.cboDeptList.FormattingEnabled = True
         Me.cboDeptList.Location = New System.Drawing.Point(24, 29)
         Me.cboDeptList.Name = "cboDeptList"
-        Me.cboDeptList.Size = New System.Drawing.Size(121, 21)
+        Me.cboDeptList.Size = New System.Drawing.Size(154, 21)
         Me.cboDeptList.TabIndex = 0
         '
         'btnClose
         '
         Me.btnClose.Location = New System.Drawing.Point(197, 27)
         Me.btnClose.Name = "btnClose"
-        Me.btnClose.Size = New System.Drawing.Size(116, 23)
+        Me.btnClose.Size = New System.Drawing.Size(176, 23)
         Me.btnClose.TabIndex = 1
         Me.btnClose.Text = "Close"
         Me.btnClose.UseVisualStyleBackColor = True
@@ -70,7 +70,7 @@ Partial Class CourseViewer
         '
         Me.Button1.Location = New System.Drawing.Point(197, 57)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(116, 23)
+        Me.Button1.Size = New System.Drawing.Size(87, 23)
         Me.Button1.TabIndex = 4
         Me.Button1.Text = "Save Changes"
         Me.Button1.UseVisualStyleBackColor = True
