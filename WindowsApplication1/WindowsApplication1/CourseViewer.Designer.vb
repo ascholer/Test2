@@ -42,7 +42,7 @@ Partial Class CourseViewer
         '
         Me.btnClose.Location = New System.Drawing.Point(197, 27)
         Me.btnClose.Name = "btnClose"
-        Me.btnClose.Size = New System.Drawing.Size(176, 23)
+        Me.btnClose.Size = New System.Drawing.Size(351, 23)
         Me.btnClose.TabIndex = 1
         Me.btnClose.Text = "Close"
         Me.btnClose.UseVisualStyleBackColor = True
@@ -55,7 +55,7 @@ Partial Class CourseViewer
         Me.dgvCourse.Location = New System.Drawing.Point(2, 109)
         Me.dgvCourse.Name = "dgvCourse"
         Me.dgvCourse.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect
-        Me.dgvCourse.Size = New System.Drawing.Size(380, 150)
+        Me.dgvCourse.Size = New System.Drawing.Size(649, 150)
         Me.dgvCourse.TabIndex = 2
         '
         'TextBox1
@@ -79,7 +79,7 @@ Partial Class CourseViewer
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(385, 489)
+        Me.ClientSize = New System.Drawing.Size(654, 489)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.dgvCourse)
